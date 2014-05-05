@@ -1,0 +1,5 @@
+hub (1.12.0-0ubuntu0tgi1) unstable; urgency=low
+
+  * Initial package.
+
+ -- Nathaniel Nutter <nnutter@genome.wustl.edu>  Mon, 05 May 2014 17:42:29 -0500
