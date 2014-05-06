@@ -2,11 +2,10 @@ Source: hub
 Section: devel
 Priority: optional
 Maintainer: Nathaniel Nutter <nnutter@genome.wustl.edu>
-Build-Depends: quilt (>= 0.46-7~), debhelper (>= 7)
+Build-Depends: quilt (>= 0.46-7~), debhelper (>= 7), rake
 Standards-Version: 3.8.3
 Homepage: https://github.com/github/hub
 
 Package: hub
 Architecture: any
-Depends: rake
 Description: hub helps you win at git.
